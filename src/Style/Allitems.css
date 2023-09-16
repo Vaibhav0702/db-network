@@ -1,0 +1,21 @@
+.Allitems{
+    display: flex;
+    justify-content: space-evenly;
+    width:80%;
+    margin: auto;
+    align-items: center;
+    height:112px;
+    margin-top: 10px;
+}
+.allitems_in>img{
+    width: 64px;
+    height: 64px;
+}
+.allitems_in>p{
+    margin-top:0px;
+    font-weight:600;
+    font-family: roboto,Arial, Helvetica, sans-serif;
+}
+.img1{
+    margin-left:30px;
+}
